@@ -64,6 +64,24 @@ abline(simp)
 summary.lm(simp)
 ```
 
+Summary
+
+These are ordered from the best to worst: 
+
+HEADLEN: Adjusted R Squared: 0.8434 RSE: 4.235 
+
+CHEST: Adjust R square: 0.7869 RSE: 4.939
+
+WEIGHT: Adjust R square: 0.7423 RSE: 5.432
+
+NECK: Adjusted R Square: 0.7476 RSE: 5.376
+
+Length: Adjusted R Squared: 0.7476 RSE: 5.376 
+
+HEADWTH: Adjusted R Square: 0.5321 RSE: 7.32
+
+Age: Adjusted R Squared: 0.5073 RSE: 7.511 
+
 
 ## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
 
